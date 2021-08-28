@@ -40,7 +40,7 @@ query from InfluxDB in java with only fastJson dependency needed
 
     }
 ## 3. Dont forget close connect with influxdb.DisConnect();
-## 4. In InfluxDB you can send multi sql with one query ,and separate sql with ";"
+## 4. You can send multi sql in one query ,and separate sql with ";"
 ## 5. print query result should be like this：
 ![image](https://user-images.githubusercontent.com/11673734/131204214-de30961c-6675-4d20-9e8b-942caec45097.png)
 
